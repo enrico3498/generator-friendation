@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Enrico Beyer",
+      "authorEmail": "enrico@friendventure.de",
+      "authorUrl": ""
+    }
+  }
+}
