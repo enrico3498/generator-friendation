@@ -1,5 +1,5 @@
 # generator-friendation [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> This generator automatically scaffholds the basic boilerplate of the friendation theme
+> This generator automatically scaffholds the basic boilerplate of a friendation component
 
 ## Installation
 
