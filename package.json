@@ -1,7 +1,7 @@
 {
   "name": "generator-friendation",
-  "version": "0.0.0",
-  "description": "This generator automatically scaffholds the basic boilerplate of the friendation theme",
+  "version": "1.0.0",
+  "description": "This generator automatically scaffholds the basic boilerplate of a friendation component",
   "homepage": "https://dev.friendventure.de/",
   "author": {
     "name": "Enrico Beyer",
@@ -79,6 +79,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "fv-enrico/generator-friendation",
+  "repository": "enrico3498/generator-friendation",
   "license": "MIT"
 }
